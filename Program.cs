@@ -8,6 +8,7 @@ namespace SlutprojektSommaren
 		{
 			Console.WriteLine("Hello World!");
 			Console.ReadLine();
+
 		}
 	}
 }
